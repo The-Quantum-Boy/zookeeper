@@ -6,6 +6,10 @@
       <list>
         <option value="$PROJECT_DIR$/zookeeper/pom.xml" />
         <option value="$PROJECT_DIR$/zookeeper-ex2/pom.xml" />
+        <option value="$PROJECT_DIR$/curator/pom.xml" />
+        <option value="$PROJECT_DIR$/cluster-monitor/pom.xml" />
+        <option value="$PROJECT_DIR$/locks/pom.xml" />
+        <option value="$PROJECT_DIR$/queue/pom.xml" />
       </list>
     </option>
   </component>
